@@ -25,7 +25,12 @@ public class menue{
                         	case 1:
                                 	System.out.println("Michael Sauer");
                         	break;
-                        	case 2:
+                        	case 27:
+					System.out.println("Christian Warken");
+				break;
+				case 99:
+					System.out.println("Donald Trump Anal Intruders Team");
+				break;
               //wer da sonst noch so wäre ...
                         	break;
                         	default:
