@@ -33,7 +33,7 @@ public class menue{
                         	break;
 
                         	case 2:
-              //wer da sonst noch so wäre ...
+                                    System.out.println("Niklas Schuetz");
                         	break;
                         	case 24:
                         		System.out.println("Jannik Adam");
