@@ -25,6 +25,9 @@ public class menue{
                         	case 1:
                                 	System.out.println("Michael Sauer");
                         	break;
+                                case 4:
+                                        System.out.println("Funda Erol");
+                                break;
                         	case 2:
               //wer da sonst noch so wäre ...
                         	break;
@@ -35,4 +38,4 @@ public class menue{
 				scanner.close();
 			
         }
-	}
+	}  
