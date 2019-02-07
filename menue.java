@@ -28,6 +28,10 @@ public class menue{
                         	case 2:
               //wer da sonst noch so wäre ...
                         	break;
+							case 20:
+                                	System.out.println("mohammed");
+                        	break;
+							
                         	default:
                                 	System.out.println("Fehler: Kenne ich nicht!");
                         	}
