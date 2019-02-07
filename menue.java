@@ -28,6 +28,9 @@ public class menue{
                         	case 2:
               //wer da sonst noch so wäre ...
                         	break;
+				case 30:
+					System.out.println("Matthias Sennikow\n aka en rischtig krasser dude");
+				break;
                         	default:
                                 	System.out.println("Fehler: Kenne ich nicht!");
                         	}
