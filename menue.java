@@ -45,27 +45,33 @@ public class menue{
                         	case 11:
                                 	System.out.println("Matthias Riegler");
 				                  break;
+
                         	case 9:
                                 	System.out.println("Fabian Paul");
                         	break;
+
                         	case 33:
                                   System.out.println("Anne-Kathrin Haag");
                             break;
                         	  case 38:
                                 	System.out.println("Alessio Ragusa");
                         	break;
+
                         	case 2:
                                 	System.out.println("Niklas Schuetz");
                         	break;
                         	case 42:
                                 	System.out.println("Yasin Tatar")
                         	break;
-			                  	case 20:
+				                  case 20:
                                 	System.out.println("mohammed");
                         	break;
                         	case 24:
                         	      System.out.println("Jannik Adam");
                         	break;
+                          case 19:
+					                        System.out.println("Julia Krier");
+                          break;				               
                         case 27:
                             System.out.println("Christian Warken");
                           break;
@@ -78,6 +84,7 @@ public class menue{
                           case 37:
                             System.out.println("Roman Pinkel");
                         	  break;
+
 
                         	default:
                                	System.out.println("Fehler: Kenne ich nicht!");
