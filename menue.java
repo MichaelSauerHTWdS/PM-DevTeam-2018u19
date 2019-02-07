@@ -35,12 +35,19 @@ public class menue{
                         	case 2:
               //wer da sonst noch so wäre ...
                         	break;
-				case 9:
-					System.out.println("Jannik Schäfer");
-          break;
-			 	case 29:
-					System.out.println("dddavid");
-				  break;
+                        	case 24:
+                        		System.out.println("Jannik Adam");
+                        	break;
+
+                          case 29:
+                            System.out.println("dddavid");
+                          break;
+                          case 9:
+                            System.out.println("Jannik Schäfer");
+                            break;
+                          case 29:
+                            System.out.println("dddavid");
+                            break;
                         	default:
                                 	System.out.println("Fehler: Kenne ich nicht!");
                         	}
