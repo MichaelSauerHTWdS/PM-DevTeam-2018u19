@@ -12,8 +12,8 @@ import java.util.Scanner;
 public class menue{
         public static void main(String[] args) {
         	final int PROGRAMMENDE=0;
-			boolean isEnde=false;
-			Scanner scanner = new Scanner(System.in);
+			    boolean isEnde=false;
+			    Scanner scanner = new Scanner(System.in);
         	while(!isEnde){
                 	int wahl = scanner.nextInt();
                 	switch (wahl) {
@@ -24,6 +24,10 @@ public class menue{
                         	case 1:
                                 	System.out.println("Michael Sauer");
                         	break;
+				                  case 25:
+   				                        System.out.println("Tobias Kiel");
+   				                break;
+
                         	case 8:
                             	System.out.println("Bleibt Annonym Uu.");
                             	break;
@@ -42,10 +46,12 @@ public class menue{
                           	case 4:
                                   System.out.println("Funda Erol");
                           	break;
+
                         	case 38:
                                 	System.out.println("Alessio Ragusa");
                         	break;
                         	case 2:
+
                                 	System.out.println("Niklas Schuetz");
                         	break;
                         	case 42:
@@ -72,10 +78,13 @@ public class menue{
                           case 37:
                             System.out.println("Roman Pinkel");
                         	  break;
+
                         	default:
-                                	System.out.println("Fehler: Kenne ich nicht!");
+                               	System.out.println("Fehler: Kenne ich nicht!");
                         	}
+
 					}
 				scanner.close();
         }
 	}  
+
