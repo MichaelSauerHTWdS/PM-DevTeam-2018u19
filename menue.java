@@ -35,12 +35,21 @@ public class menue{
                         	case 2:
               //wer da sonst noch so wäre ...
                         	break;
+<<<<<<< HEAD
 				case 9:
 					System.out.println("Jannik Schäfer");
           break;
 			 	case 29:
 					System.out.println("dddavid");
 				  break;
+=======
+                            case 14:
+                                    System.out.println("Shenna R W P");
+                                    break;
+                            case 36:
+                                    System.out.println("Agra Bimantara");
+                                    break;
+>>>>>>> shennarwp
                         	default:
                                 	System.out.println("Fehler: Kenne ich nicht!");
                         	}
