@@ -25,12 +25,20 @@ public class menue{
                         	case 1:
                                 	System.out.println("Michael Sauer");
                         	break;
+                        	case 38:
+                                	System.out.println("Alessio Ragusa");
+                        	break;
                         	case 2:
               //wer da sonst noch so wäre ...
                         	break;
-				case 19:
-					System.out.println("Julia Krier");
-				break;
+
+				                  case 19:
+					                        System.out.println("Julia Krier");
+                          break;
+
+			 	                   case 29:
+					                        System.out.println("dddavid");
+                           break;
                         	default:
                                 	System.out.println("Fehler: Kenne ich nicht!");
                         	}
