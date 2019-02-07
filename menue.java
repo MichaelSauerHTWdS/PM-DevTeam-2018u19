@@ -28,6 +28,9 @@ public class menue{
                         	case 2:
               //wer da sonst noch so wäre ...
                         	break;
+				case 28:
+					System.out.println("Julian Krieger");
+					break;
                         	default:
                                 	System.out.println("Fehler: Kenne ich nicht!");
                         	}
