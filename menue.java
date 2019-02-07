@@ -50,6 +50,9 @@ public class menue{
                         	case 24:
                         	      System.out.println("Jannik Adam");
                         	break;
+                        case 27:
+                            System.out.println("Christian Warken");
+                          break;
                           case 29:
                                   System.out.println("dddavid");
                           break;
