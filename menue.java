@@ -33,8 +33,8 @@ public class menue{
                                     System.out.println("Anne-Kathrin Haag");
                                     break;
                            
-							              case 28:
-									                  System.out.println("Julian Krieger");
+			    case 28:
+				    System.out.println("Julian Krieger");
                             default:
                                     System.out.println("Fehler: Kenne ich nicht!");
                             }
