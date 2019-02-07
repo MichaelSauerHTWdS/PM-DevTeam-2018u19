@@ -24,6 +24,9 @@ public class menue{
                         	case 1:
                                 	System.out.println("Michael Sauer");
                         	break;
+                        	case 8:
+                            	System.out.println("Bleibt Annonym Uu.");
+                            	break;
                         	case 100:
                                 	System.out.println("Dennis Groß");
                           break;
