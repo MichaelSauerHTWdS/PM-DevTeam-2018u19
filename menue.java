@@ -9,7 +9,6 @@ import java.util.Scanner;
  * @author mike
  */
 
-
 public class menue{
         public static void main(String[] args) {
         	final int PROGRAMMENDE=0;
@@ -25,9 +24,11 @@ public class menue{
                         	case 1:
                                 	System.out.println("Michael Sauer");
                         	break;
-                                case 4:
-                                        System.out.println("Funda Erol");
-                                break;
+                        	case 33:
+                            System.out.println("Anne-Kathrin Haag");
+                          case 4:
+                                  System.out.println("Funda Erol");
+                          break;
                         	case 38:
                                 	System.out.println("Alessio Ragusa");
                         	break;
@@ -53,6 +54,5 @@ public class menue{
                         	}
 					}
 				scanner.close();
-			
         }
 	}  
