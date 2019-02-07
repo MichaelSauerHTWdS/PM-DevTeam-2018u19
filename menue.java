@@ -38,6 +38,9 @@ public class menue{
                         	case 2:
                                     System.out.println("Niklas Schuetz");
                         	break;
+							            case 20:
+                                	System.out.println("mohammed");
+                        	break;
                         	case 24:
                         		System.out.println("Jannik Adam");
                         	break;
@@ -47,9 +50,6 @@ public class menue{
                           break;
                           case 9:
                             System.out.println("Jannik Schäfer");
-                            break;
-                          case 29:
-                            System.out.println("dddavid");
                             break;
                         	default:
                                 	System.out.println("Fehler: Kenne ich nicht!");
