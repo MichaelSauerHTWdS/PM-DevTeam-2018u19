@@ -13,9 +13,9 @@ import java.util.Scanner;
 public class menue{
         public static void main(String[] args) {
         	final int PROGRAMMENDE=0;
-        	boolean isEnde=false;
+			boolean isEnde=false;
+			Scanner scanner = new Scanner(System.in);
         	while(!isEnde){
-                	Scanner scanner = new Scanner(System.in);
                 	int wahl = scanner.nextInt();
                 	switch (wahl) {
                         	case PROGRAMMENDE:
@@ -31,6 +31,8 @@ public class menue{
                         	default:
                                 	System.out.println("Fehler: Kenne ich nicht!");
                         	}
-                	}
+					}
+				scanner.close();
+			
         }
 	}
