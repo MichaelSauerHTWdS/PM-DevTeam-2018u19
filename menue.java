@@ -28,6 +28,12 @@ public class menue{
                         	case 2:
               //wer da sonst noch so wäre ...
                         	break;
+                            case 14:
+                                    System.out.println("Shenna R W P");
+                                    break;
+                            case 36:
+                                    System.out.println("Agra Bimantara");
+                                    break;
                         	default:
                                 	System.out.println("Fehler: Kenne ich nicht!");
                         	}
