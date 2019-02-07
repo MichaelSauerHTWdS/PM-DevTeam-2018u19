@@ -26,18 +26,26 @@ public class menue{
                         	case 1:
                                 	System.out.println("Michael Sauer");
                         	break;
+                                case 4:
+                                        System.out.println("Funda Erol");
+                                break;
                         	case 38:
                                 	System.out.println("Alessio Ragusa");
                         	break;
+
                         	case 2:
               //wer da sonst noch so wäre ...
                         	break;
                           case 27:
                             System.out.println("Christian Warken");
                           break;
+				case 9:
+					System.out.println("Jannik Schäfer");
+          break;
+
 			 	case 29:
 					System.out.println("dddavid");
-				break;
+				  break;
                         	default:
                                 	System.out.println("Fehler: Kenne ich nicht!");
                         	}
@@ -45,4 +53,4 @@ public class menue{
 				scanner.close();
 			
         }
-	}
+	}  
