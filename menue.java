@@ -12,8 +12,8 @@ import java.util.Scanner;
 public class menue{
         public static void main(String[] args) {
         	final int PROGRAMMENDE=0;
-			boolean isEnde=false;
-			Scanner scanner = new Scanner(System.in);
+			    boolean isEnde=false;
+			    Scanner scanner = new Scanner(System.in);
         	while(!isEnde){
                 	int wahl = scanner.nextInt();
                 	switch (wahl) {
@@ -24,15 +24,21 @@ public class menue{
                         	case 1:
                                 	System.out.println("Michael Sauer");
                         	break;
-
-
-
-                                case 4:
-                                        System.out.println("Funda Erol");
-                                break;
-                        	
-
-
+                        	case 12:
+                                	System.out.println("Patrick Plewka");
+                          break;
+				                  case 22:
+                                   System.out.println("Roland Daidone");
+                          break;
+                          case 4:
+                                   System.out.println("Funda Erol");
+                          break;
+				                  case 25:
+   				                        System.out.println("Tobias Kiel");
+   				                break;
+                        	case 8:
+                            	System.out.println("Bleibt Annonym Uu.");
+                            	break;
                         	case 100:
                                 	System.out.println("Dennis Groß");
                           break;
@@ -46,15 +52,16 @@ public class menue{
 
                         	case 33:
                                   System.out.println("Anne-Kathrin Haag");
-                          	case 4:
-                                  System.out.println("Funda Erol");
-                          	break;
-                        	case 38:
+                            break;
+                        	  case 38:
                                 	System.out.println("Alessio Ragusa");
                         	break;
 
                         	case 2:
-                                    System.out.println("Niklas Schuetz");
+                                	System.out.println("Niklas Schuetz");
+                        	break;
+                        	case 42:
+                                	System.out.println("Yasin Tatar")
                         	break;
 				                  case 20:
                                 	System.out.println("mohammed");
@@ -62,41 +69,29 @@ public class menue{
                         	case 24:
                         	      System.out.println("Jannik Adam");
                         	break;
-
-
-                          case 9:
-					                      System.out.println("Jannik Schäfer");
-                          break;
-                      
-				                  case 19:
+                          case 19:
 					                        System.out.println("Julia Krier");
+                          break;				               
+                        case 27:
+                            System.out.println("Christian Warken");
                           break;
-
-			 	                  case 29:
-					                        System.out.println("dddavid");
-                          break;
-				                  
-                          case 38:
-                                	System.out.println("Alessio Ragusa");
-                        	break;
-                      
-
                           case 29:
                                   System.out.println("dddavid");
                           break;
                           case 9:
-
                             System.out.println("Jannik Schäfer");
                             break;
+                          case 37:
+                            System.out.println("Roman Pinkel");
+                        	  break;
 
-                          case 29:
-                            System.out.println("dddavid");
-                            break;
 
                         	default:
-                                	System.out.println("Fehler: Kenne ich nicht!");
+                               	System.out.println("Fehler: Kenne ich nicht!");
                         	}
+
 					}
 				scanner.close();
         }
 	}  
+
