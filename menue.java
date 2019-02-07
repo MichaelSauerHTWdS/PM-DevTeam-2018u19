@@ -25,14 +25,17 @@ public class menue{
                         	case 1:
                                 	System.out.println("Michael Sauer");
                         	break;
+
+				case 25:
+   				 System.out.println("Tobias Kiel");
+   				 break;
+
                         	case 2:
-              //wer da sonst noch so wäre ...
+              			//wer da sonst noch so wäre ...
                         	break;
                         	default:
-                                	System.out.println("Fehler: Kenne ich nicht!");
+                               	System.out.println("Fehler: Kenne ich nicht!");
                         	}
 					}
-				scanner.close();
-			
-        }
+				scanner.close();       					 }
 	}
