@@ -39,12 +39,12 @@ public class menue {
                 case 20:
                     System.out.println("Tobias Kiel");
                     break;
-                case 22:
-                    System.out.println("Anne-Kathrin Haag");
-                    break;
-
                 case 28:
                     System.out.println("Julian Krieger");
+                    break;
+                case 33:
+                    System.out.println("Anne-Kathrin Haag");
+                    break;
                 default:
                     System.out.println("Fehler: Kenne ich nicht!");
             }
