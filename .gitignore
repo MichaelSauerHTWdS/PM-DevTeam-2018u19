@@ -6,6 +6,7 @@
 
 # BlueJ files
 *.ctxt
+package.bluej
 
 # Intellij
 .idea
