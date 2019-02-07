@@ -27,11 +27,14 @@ public class menue{
                             break;
                             case 2:
                                     System.out.println("Roland Daidone");                           
-              //wer da sonst noch so wäre ...
+              //wer da sonst noch so wäre ..
                             break;
                             case 22:
                                     System.out.println("Anne-Kathrin Haag");
                                     break;
+                           
+							              case 28:
+									                  System.out.println("Julian Krieger");
                             default:
                                     System.out.println("Fehler: Kenne ich nicht!");
                             }
