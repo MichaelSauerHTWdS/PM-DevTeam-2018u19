@@ -9,7 +9,6 @@ import java.util.Scanner;
  * @author mike
  */
 
-
 public class menue{
         public static void main(String[] args) {
         	final int PROGRAMMENDE=0;
@@ -25,30 +24,37 @@ public class menue{
                         	case 1:
                                 	System.out.println("Michael Sauer");
                         	break;
-                                case 4:
-                                        System.out.println("Funda Erol");
-                                break;
+                        	case 9:
+                                	System.out.println("Fabian Paul");
+                        	break;
+                        	case 33:
+                                	System.out.println("Anne-Kathrin Haag");
+                          case 4:
+                                  System.out.println("Funda Erol");
+                          break;
                         	case 38:
                                 	System.out.println("Alessio Ragusa");
                         	break;
-
                         	case 2:
-              //wer da sonst noch so wäre ...
+                                	System.out.println("Niklas Schuetz");
                         	break;
-			        case 42:
-	                		System.out.println("Yasin Tatar")
-		                break;
-	                	case 9:
-	                		System.out.println("Jannik Schäfer");
+                        	case 42:
+                                	System.out.println("Yasin Tatar")
+                        	break;
+                        	case 9:
+                                	System.out.println("Jannik Schäfer");
                  	        break;
-	                	case 29:
-	                		System.out.println("dddavid");
-		                break;
+                        	case 29:
+                                	System.out.println("dddavid");
+                        	break;
+
+                        	case 24:
+                                	System.out.println("Jannik Adam");
+                        	break;
                         	default:
                                 	System.out.println("Fehler: Kenne ich nicht!");
                         	}
 					}
 				scanner.close();
-			
         }
 	}  
