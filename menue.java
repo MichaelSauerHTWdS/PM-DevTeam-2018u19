@@ -38,6 +38,7 @@ public class menue{
                         	break;
                         	case 33:
                                   System.out.println("Anne-Kathrin Haag");
+                            break;
                           	case 4:
                                   System.out.println("Funda Erol");
                           	break;
@@ -45,9 +46,12 @@ public class menue{
                                 	System.out.println("Alessio Ragusa");
                         	break;
                         	case 2:
-                                    System.out.println("Niklas Schuetz");
+                                	System.out.println("Niklas Schuetz");
                         	break;
-				                  case 20:
+                        	case 42:
+                                	System.out.println("Yasin Tatar")
+                        	break;
+			                  	case 20:
                                 	System.out.println("mohammed");
                         	break;
                         	case 24:
