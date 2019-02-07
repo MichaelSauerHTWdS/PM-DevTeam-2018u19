@@ -12,29 +12,34 @@ import java.util.Scanner;
 
 public class menue{
         public static void main(String[] args) {
-        	final int PROGRAMMENDE=0;
-			boolean isEnde=false;
-			Scanner scanner = new Scanner(System.in);
-        	while(!isEnde){
-                	int wahl = scanner.nextInt();
-                	switch (wahl) {
-                        	case PROGRAMMENDE:
-                                	System.out.println("Ciao");
-                                	isEnde=true;
-                        	break;
-                        	case 1:
-                                	System.out.println("Michael Sauer");
-                        	break;
-                        	case 2:
-              //wer da sonst noch so wäre ...
-							break;
-							case 28:
-									System.out.println("Julian Krieger");
-                        	default:
-                                	System.out.println("Fehler: Kenne ich nicht!");
-                        	}
-					}
-				scanner.close();
-			
+            final int PROGRAMMENDE=0;
+            boolean isEnde=false;
+            Scanner scanner = new Scanner(System.in);
+            while(!isEnde){
+                    int wahl = scanner.nextInt();
+                    switch (wahl) {
+                            case PROGRAMMENDE:
+                                    System.out.println("Ciao");
+                                    isEnde=true;
+                            break;
+                            case 1:
+                                    System.out.println("Michael Sauer");
+                            break;
+                            case 2:
+                                    System.out.println("Roland Daidone");                           
+              //wer da sonst noch so wäre ..
+                            break;
+                            case 22:
+                                    System.out.println("Anne-Kathrin Haag");
+                                    break;
+                           
+							              case 28:
+									                  System.out.println("Julian Krieger");
+                            default:
+                                    System.out.println("Fehler: Kenne ich nicht!");
+                            }
+                    }
+                scanner.close();
+            
         }
-	}
+    }
