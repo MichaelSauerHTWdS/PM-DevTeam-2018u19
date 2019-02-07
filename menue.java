@@ -29,6 +29,12 @@ public class menue{
                                     System.out.println("Roland Daidone");                           
               //wer da sonst noch so wäre ..
                             break;
+                            case 14:
+                                    System.out.println("Shenna R W P");
+                                    break;
+                            case 18:
+                                    System.out.println("Matthias Sennikow\n aka en voll krasser motherfucker");
+                                    break;
                             case 22:
                                     System.out.println("Anne-Kathrin Haag");
                                     break;
